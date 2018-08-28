@@ -1,0 +1,7 @@
+C:\Users\Michael.Steele\source\repos\CallingMePrime\CallingMePrime\bin\Debug\CallingMePrime.exe.config
+C:\Users\Michael.Steele\source\repos\CallingMePrime\CallingMePrime\bin\Debug\CallingMePrime.exe
+C:\Users\Michael.Steele\source\repos\CallingMePrime\CallingMePrime\bin\Debug\CallingMePrime.pdb
+C:\Users\Michael.Steele\source\repos\CallingMePrime\CallingMePrime\obj\Debug\CallingMePrime.csprojAssemblyReference.cache
+C:\Users\Michael.Steele\source\repos\CallingMePrime\CallingMePrime\obj\Debug\CallingMePrime.csproj.CoreCompileInputs.cache
+C:\Users\Michael.Steele\source\repos\CallingMePrime\CallingMePrime\obj\Debug\CallingMePrime.exe
+C:\Users\Michael.Steele\source\repos\CallingMePrime\CallingMePrime\obj\Debug\CallingMePrime.pdb

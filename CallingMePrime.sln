@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCalculator", "PrimeCalculator\PrimeCalculator.csproj", "{E53EC22C-E41E-4DD9-95D1-2C27B36B46F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCalculatorTest", "PrimeCalculatorTest\PrimeCalculatorTest.csproj", "{987C6428-8D80-45D3-97A3-8F596000E0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E53EC22C-E41E-4DD9-95D1-2C27B36B46F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53EC22C-E41E-4DD9-95D1-2C27B36B46F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53EC22C-E41E-4DD9-95D1-2C27B36B46F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53EC22C-E41E-4DD9-95D1-2C27B36B46F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987C6428-8D80-45D3-97A3-8F596000E0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987C6428-8D80-45D3-97A3-8F596000E0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987C6428-8D80-45D3-97A3-8F596000E0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987C6428-8D80-45D3-97A3-8F596000E0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E04212D-3005-4D4D-8126-7E1EC2F5EEB7}
+	EndGlobalSection
+EndGlobal
