@@ -8,7 +8,7 @@ C:\Users\Michael.Steele\source\github\PrimeNumberFactors\CallingMePrime\obj\Debu
 C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\bin\Debug\CallingMePrime.exe.config
 C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\bin\Debug\CallingMePrime.exe
 C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\bin\Debug\CallingMePrime.pdb
-C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\obj\Debug\PrimeCalculator.csprojAssemblyReference.cache
 C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\obj\Debug\PrimeCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\obj\Debug\CallingMePrime.exe
 C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\obj\Debug\CallingMePrime.pdb
+C:\Users\Michael.Steele\source\github\PrimeNumberFactors\PrimeCalculator\obj\Debug\PrimeCalculator.csprojAssemblyReference.cache
